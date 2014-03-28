@@ -4,7 +4,7 @@ Doge-driven debugging. Such console, many logs. Using `console.loge()` brings ne
 
 Doge's console magic should work in any decent browser. It'll `return;` if `window.console` isn't supported, so you can even leave it in production ;)
 
-[![Doge example](http://i.imgur.com/kuvEhlK.png)]
+![Doge example](http://i.imgur.com/kuvEhlK.png)
 
 ## Installing with Bower
 Use the repository hook:
