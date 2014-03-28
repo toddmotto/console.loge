@@ -2,7 +2,7 @@
 
 Doge-driven debugging. Such console, many logs. Using `console.loge()` brings new light to debugging. Doge will randomise his infamous face amongst some of his most prestigious thoughts to help you debug your application in no time.
 
-[View demo](http://jsfiddle.net/Xx3DN)
+> [View demo](http://jsfiddle.net/Xx3DN)
 
 Doge's console magic should work in any decent browser. It'll `return;` if `window.console` isn't supported, so you can even leave it in production ;)
 
