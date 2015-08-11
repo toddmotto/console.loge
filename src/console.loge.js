@@ -19,7 +19,7 @@
   };
 
   var type = function (obj) {
-    return Object.prototype.toString.call(obj).match(/\[object(.*)\]/)[1].replace(/\s/g, '');
+    return Object.prototype.toString.call(obj).slice(8, -1);
   };
 
   if (!console.loge) {
